@@ -10,7 +10,7 @@ const Footer = () => {
             {/* Brand Section */}
             <div>
               <h2 class="text-xl mb-2">Eng. M Afaq Ahmad</h2>
-              <p class="text-sm text-red-400">
+              <p class="text-sm text-red-500">
                 Empowering the Tech with innovation.
               </p>
             </div>
@@ -18,7 +18,7 @@ const Footer = () => {
             {/* <!-- Quick Links --> */}
             <div>
               <h3 class="text-lg font-semibold mb-2">Links</h3>
-              <ul class="space-y-1 text-red-400 text-sm">
+              <ul class="space-y-1 text-red-500 text-sm">
                 <li>
                   <Link
                     to="/"
@@ -58,22 +58,22 @@ const Footer = () => {
               <h3 class="text-lg font-semibold mb-2">Resources</h3>
               <ul class="space-y-1 text-red-500 text-sm">
                 <li>
-                  <a href="#" class="hover:border-b-2 border-red-500">
+                  <a href="#" class="text-red-500 hover:border-b-2 border-red-500">
                     Docs
                   </a>
                 </li>
                 <li>
-                  <a href="#" class="hover:border-b-2 border-red-500">
+                  <a href="#" class="text-red-500 hover:border-b-2 border-red-500">
                     Blog
                   </a>
                 </li>
                 <li>
-                  <a href="#" class="hover:border-b-2 border-red-500">
+                  <a href="#" class="text-red-500 hover:border-b-2 border-red-500">
                     FAQ
                   </a>
                 </li>
                 <li>
-                  <a href="#" class="hover:border-b-2 border-red-500">
+                  <a href="#" class="text-red-500 hover:border-b-2 border-red-500">
                     Support
                   </a>
                 </li>
