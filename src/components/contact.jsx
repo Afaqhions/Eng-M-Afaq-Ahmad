@@ -93,8 +93,6 @@ const Contact = () => {
 
     if (!formData.message.trim()) {
       newErrors.message = "Message is required";
-    } else if (formData.message.length < 10) {
-      newErrors.message = "Message must be at least 10 characters";
     } else if (formData.message.length > 100) {
       newErrors.message = "Message must not exceed 100 characters";
     }
