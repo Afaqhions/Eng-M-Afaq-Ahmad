@@ -51,7 +51,7 @@ const Contact = () => {
           ></textarea>
 
           <button className="inline-block px-6 py-2 border border-red-500 text-red-500 hover:bg-white hover:text-red-500 transition duration-300 rounded-full text-[1rem] uppercase tracking-widest self-center mt-4">
-            Contact Us
+            Submit
           </button>
         </form>
       </div>
