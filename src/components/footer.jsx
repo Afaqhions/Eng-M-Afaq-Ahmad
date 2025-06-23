@@ -84,11 +84,11 @@ const Footer = () => {
             <div>
               <h3 class="text-lg font-semibold mb-2">Follow Us</h3>
               <div class="flex space-x-4">
-                <a href="https://www.linkedin.com/in/engmuhammad-afaq-ahmad-684b36354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="">
-                  <FaInstagram />
-                </a>
                 <a href="https://www.instagram.com/muhammadafaqpoet?igsh=dnAzcWprd3E1YTJq" class="">
                   <FaLinkedin />
+                </a>
+                <a href="https://www.linkedin.com/in/engmuhammad-afaq-ahmad-684b36354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="">
+                  <FaInstagram />
                 </a>
               </div>
             </div>
