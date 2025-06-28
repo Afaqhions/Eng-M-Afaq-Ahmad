@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import '../assets/afaq.jpg'; 
 const About = () => {
   return (
-      <section class=" bg-red-500 my-[5.5rem] rounded-lg text-white py-16 mx-8 px-10 sm:px-6 lg:px-20">
+      <section class="bg-[#050414] border-[#8245ec] border-2 my-[5.5rem] rounded-lg text-white py-16 mx-8 px-10 sm:px-6 lg:px-20">
         <div class="max-w-7xl mx-auto flex flex-col md:flex-row items-center gap-12">
           {/* <!-- Image --> */}
           <div class="md:w-1/2">
@@ -27,7 +27,7 @@ const About = () => {
               Whether it’s architecture, interior, or digital presence — I
               focus on excellence and refined simplicity.
             </p>
-            <Link to='/contact' class="inline-block px-6 py-2 border border-white text-white hover:bg-white hover:text-red-500 transition duration-300 rounded-full text-[1rem] uppercase tracking-widest">
+            <Link to='/contact' class="inline-block px-6 py-2 border border-[#8245ec] text-[#8245ec] hover:bg-white hover:text-[#8245ec] hover:font-bold transition duration-300 rounded-full text-[1rem] uppercase tracking-widest">
               Contact Us
             </Link>
           </div>
