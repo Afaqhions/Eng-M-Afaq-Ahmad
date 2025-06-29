@@ -37,9 +37,6 @@ const Skills = () => {
         <p class="text-gray-300 font-semibold">MongoDB</p>
       </div>
       <div class="text-[1.5rem] border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
-        <p class="text-gray-300 font-semibold">MongoDB</p>
-      </div>
-      <div class="text-[1.5rem] border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
         <p class="text-gray-300 font-semibold">Sqlite3</p>
       </div>
       <div class="text-[1.5rem] border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
