@@ -67,7 +67,7 @@ const Footer = () => {
 
           {/* <!-- Bottom Line --> */}
           <div class="mt-8 border-t border-[#8245ec] pt-4 text-center text-gray-300 text-sm ">
-            &copy; 2025 YourBrand. All rights reserved.
+            &copy; 2025 Almaco. All rights reserved.
           </div>
         </div>
       </footer>
