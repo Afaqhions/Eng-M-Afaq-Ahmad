@@ -27,9 +27,9 @@ export default function Navbar() {
     <nav className="bg-[#050414] text-gray-300 p-5 border-b border-[#8245ec] fixed w-full z-50">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         {/* Logo / Brand */}
-        <span>
-          <Link to="/" className="text-2xl font-bold">
-            <span className="text-[#8245ec] sm:font-[.2rem]">/</span>Eng. M Afaq Ahmad<span className="text-[#8245ec]">/</span>
+        <span className="text-[1.4rem] font-bold">
+          <Link to="/" className="font-bold">
+            <span className="text-[#8245ec]">/</span>Eng. M Afaq Ahmad<span className="text-[#8245ec]">/</span>
           </Link>
         </span>
         {/* Hamburger Icon */}
