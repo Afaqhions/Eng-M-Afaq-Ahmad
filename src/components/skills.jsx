@@ -9,49 +9,49 @@ const Skills = () => {
 
     <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-6">
       {/* <!-- Skill Card --> */}
-      <div class="border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
+      <div class="text-[1.5rem] border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
         <p class="text-gray-300 font-semibold">HTML5</p>
       </div>
-      <div class="border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
+      <div class="text-[1.5rem] border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
         <p class="text-gray-300 font-semibold">CSS3</p>
       </div>
-      <div class="border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
+      <div class="text-[1.5rem] border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
         <p class="text-gray-300 font-semibold">JavaScript</p>
       </div>
-      <div class="border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
+      <div class="text-[1.5rem] border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
         <p class="text-gray-300 font-semibold">Tailwind</p>
       </div>
-      <div class="border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
+      <div class="text-[1.5rem] border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
         <p class="text-gray-300 font-semibold">React</p>
       </div>
-      <div class="border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
+      <div class="text-[1.5rem] border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
         <p class="text-gray-300 font-semibold">Python</p>
       </div>
-      <div class="border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
+      <div class="text-[1.5rem] border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
         <p class="text-gray-300 font-semibold">Git & GitHub</p>
       </div>
-      <div class="border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
+      <div class="text-[1.5rem] border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
         <p class="text-gray-300 font-semibold">Django</p>
       </div>
-      <div class="border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
+      <div class="text-[1.5rem] border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
         <p class="text-gray-300 font-semibold">MongoDB</p>
       </div>
-      <div class="border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
+      <div class="text-[1.5rem] border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
         <p class="text-gray-300 font-semibold">MongoDB</p>
       </div>
-      <div class="border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
+      <div class="text-[1.5rem] border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
         <p class="text-gray-300 font-semibold">Sqlite3</p>
       </div>
-      <div class="border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
+      <div class="text-[1.5rem] border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
         <p class="text-gray-300 font-semibold">Java</p>
       </div>
-      <div class="border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
+      <div class="text-[1.5rem] border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
         <p class="text-gray-300 font-semibold">C</p>
       </div>
-      <div class="border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
+      <div class="text-[1.5rem] border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
         <p class="text-gray-300 font-semibold">Machine Learning</p>
       </div>
-      <div class="border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
+      <div class="text-[1.5rem] border-2 border-[#8245ec] p-5 rounded-lg shadow text-center hover:shadow-xl transition duration-300">
         <p class="text-gray-300 font-semibold">Data Analysis-Ml</p>
       </div>
     </div>
