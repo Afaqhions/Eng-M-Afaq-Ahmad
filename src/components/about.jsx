@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import '../assets/afaq.jpg'; 
 const About = () => {
   return (
-      <section class="bg-[#050414] border-[#8245ec] border-2 my-[5.5rem] rounded-lg text-white py-16 mx-8 px-10 sm:px-6 lg:px-20">
+      <section class="bg-[#050414] border-[#8245ec] border-2 my-[7rem] rounded-lg text-white py-16 mx-8 px-10 sm:px-6 lg:px-20">
         <div class="max-w-7xl mx-auto flex flex-col md:flex-row items-center gap-12">
           {/* <!-- Image --> */}
           <div class="md:w-1/2">
