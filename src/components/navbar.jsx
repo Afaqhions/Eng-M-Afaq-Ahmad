@@ -29,7 +29,7 @@ export default function Navbar() {
         {/* Logo / Brand */}
         <span>
           <Link to="/" className="text-2xl font-bold">
-            <span className="text-[#8245ec]">/</span>Eng. M Afaq Ahmad<span className="text-[#8245ec]">/</span>
+            <span className="text-[#8245ec] sm:font-[.2rem]">/</span>Eng. M Afaq Ahmad<span className="text-[#8245ec]">/</span>
           </Link>
         </span>
         {/* Hamburger Icon */}
