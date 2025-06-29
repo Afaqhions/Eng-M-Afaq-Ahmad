@@ -17,33 +17,33 @@ const Contact = () => {
             value="587ebdde-7315-448b-999e-b12c876a6b5c"
           />
 
-          <label>Name:</label>
+          <label className="text-gray-300">Name:</label>
           <input
-            className="bg-[#8245ec] rounded-lg text-gray-300 p-2 my-2 w-full lg:w-[25rem] sm:w-[240px]"
+            className="bg-[#050414] border-[#8245ec] border-2 rounded-lg text-gray-300 p-2 my-2 w-full lg:w-[25rem] sm:w-[240px]"
             type="text"
             name="name"
             placeholder="Enter your Name..."
           />
 
-          <label>Email:</label>
+          <label className="text-gray-300">Email:</label>
           <input
-            className="bg-[#8245ec] rounded-lg lg:w-[25rem] text-gray-300 p-2 my-2 w-full sm:w-[240px]"
+            className="bg-[#050414] border-[#8245ec] border-2 rounded-lg lg:w-[25rem] text-gray-300 p-2 my-2 w-full sm:w-[240px]"
             type="email"
             name="email"
             placeholder="Enter your Email..."
           />
 
-          <label>Phone:</label>
+          <label className="text-gray-300">Phone:</label>
           <input
-            className="bg-[#8245ec] rounded-lg lg:w-[25rem] text-gray-300 p-2 my-2 w-full sm:w-[240px]"
+            className="bg-[#050414] border-[#8245ec] border-2 rounded-lg lg:w-[25rem] text-gray-300 p-2 my-2 w-full sm:w-[240px]"
             type="number"
             name="phone"
             placeholder="Enter your Phone..."
           />
 
-          <label>Message:</label>
+          <label className="text-gray-300">Message:</label>
           <textarea
-            className="bg-[#8245ec] rounded-lg lg:w-[25rem] text-gray-300 p-2 my-2 w-full h-[10rem] sm:w-[240px]"
+            className="bg-[#050414] border-[#8245ec] border-2 rounded-lg lg:w-[25rem] text-gray-300 p-2 my-2 w-full h-[10rem] sm:w-[240px]"
             name="message"
             placeholder="Enter your Message..."
           ></textarea>
